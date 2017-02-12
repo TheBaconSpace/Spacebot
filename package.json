@@ -23,6 +23,12 @@
   },
   "homepage": "https://github.com/TheBaconSpace/Spacebot#readme",
   "dependencies": {
-    "discord.js": "^11.0.0"
+    "cheerio": "^0.22.0",
+    "colors": "^1.1.2",
+    "discord.js": "^11.0.0",
+    "fs": "0.0.1-security",
+    "markdown": "^0.5.0",
+    "moment": "^2.17.1",
+    "os": "^0.1.1"
   }
 }
