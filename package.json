@@ -1,0 +1,28 @@
+{
+  "name": "spacebot",
+  "version": "1.0.0",
+  "description": "Bacon_Space's Discord Bot",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBaconSpace/Spacebot.git"
+  },
+  "keywords": [
+    "SpaceBot",
+    "DiscordApi",
+    "DiscordBot",
+    "DiscordApp"
+  ],
+  "author": "Bacon_Space",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheBaconSpace/Spacebot/issues"
+  },
+  "homepage": "https://github.com/TheBaconSpace/Spacebot#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0"
+  }
+}
